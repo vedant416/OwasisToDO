@@ -1,0 +1,31 @@
+#main{
+    min-height: 85vh;
+    min-width: 85vw;
+    margin: 100px;
+    margin-bottom: 200px;
+}
+
+.note-container{
+    display: flex;
+    color: rgba(10, 3, 3, 0.63);
+    justify-content: space-between;
+    
+}
+
+.note-detail{
+    color: grey;
+}
+
+.delete{
+    background-color: rgb(226, 43, 43);
+}
+
+.TasksList{
+    color: cornflowerblue;
+    margin-bottom: 20px;
+}
+
+#title{
+    margin-left: 20px;
+    color: #23272b;
+}
